@@ -4,4 +4,4 @@ Este projeto foi baseado no que é disponibilizado no projeto [Django Girls](htt
 
 **Usuário** e **Senha** do Django admin deste projeto: *admin*  
 
-Atualmente **(06/02/202)**, este projeto está hospedado o [wpomori.pythonanywhere.com](wpomori.pythonanywhere.com "Clique e acesse a página agora!").
+Atualmente **(06/02/202)**, este projeto está hospedado o [wpomori.pythonanywhere.com](wpomori.pythonanywhere.com "Clique e acesse a página agora!") (prazo de 3 meses).
