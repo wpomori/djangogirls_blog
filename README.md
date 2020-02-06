@@ -2,6 +2,4 @@ Parei no tutorial Django Girls de como instalar e fazer um banco de dados com Po
 
 **Usuário** e **Senha**: *admin*  
 
-Atualmente **(06/02/202)**, este projeto está hospedado o wpomori.pythonanywhere.com
-
-[Blog do Da2k](https://blog.da2k.com.br "Clique e acesse agora!")
+Atualmente **(06/02/202)**, este projeto está hospedado o [wpomori.pythonanywhere.com](wpomori.pythonanywhere.com "Clique e acesse a página agora!").
