@@ -1,1 +1,7 @@
-Parei no tutorial Django Girls de como instalar e fazer um banco de dados com PostgreSQ (Django Girls Tutorial: Extensions)
+Parei no tutorial Django Girls de como instalar e fazer um banco de dados com PostgreSQ (Django Girls Tutorial: Extensions).  
+
+**Usuário** e **Senha**: *admin*  
+
+Atualmente **(06/02/202)**, este projeto está hospedado o wpomori.pythonanywhere.com
+
+[Blog do Da2k](https://blog.da2k.com.br "Clique e acesse agora!")
