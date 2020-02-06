@@ -1,6 +1,6 @@
 Parei no tutorial Django Girls de como instalar e fazer um banco de dados com PostgreSQ (Django Girls Tutorial: Extensions).  
 
-Este projeto foi baseado no que é disponibilizado no projeto [Django Girls](https://tutorial.djangogirls.org/pt/ "Quer conhecer o projeto? CLIQUE AQUI!!!")  
+Este projeto foi baseado no que é disponibilizado no projeto [Django Girls](https://tutorial.djangogirls.org/pt/ "Quer conhecer o projeto? CLIQUE AQUI!!!").  
 
 **Usuário** e **Senha** do Django admin deste projeto: *admin*  
 
